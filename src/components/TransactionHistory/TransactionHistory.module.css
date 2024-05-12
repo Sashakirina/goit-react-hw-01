@@ -1,0 +1,14 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .thead,
+  .trHead {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(33, 34, 34);
+    color: #fff;
+  }
+  

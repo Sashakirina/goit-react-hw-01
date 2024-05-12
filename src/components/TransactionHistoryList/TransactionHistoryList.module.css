@@ -1,0 +1,15 @@
+.tr {
+    background-color: #dddddd;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+  }
+   
+.tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+.td{
+    border: 1px solid black;
+
+}
